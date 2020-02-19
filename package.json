@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "a basics of nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\\"
+  },
+  "author": "prattya",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "cities": "^2.0.0",
+    "dotenv": "^8.2.0"
+  }
+}
